@@ -1,0 +1,9 @@
+leftnav:
+- identifier: c3ebe2e5-59af-4c10-8ff0-2a3cb8978fb9
+  name: Video Presentation
+  pageRef: /pages/video-and-supporting-materials
+  weight: 10
+- identifier: d0421184-7dd8-4484-9f7f-7e7af32a11d0
+  name: Supporting Materials
+  pageRef: /pages/supporting-materials
+  weight: 20

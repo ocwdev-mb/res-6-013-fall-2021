@@ -1,0 +1,41 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "de2aeb18-6c75-22eb-1c67-71ec42f1057c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0eac70b6-a85f-47b4-b77a-8f9d38ceb023",
+    "website": "res-6-013-ai-101-fall-2021"
+  },
+  "course_title": "AI 101",
+  "course_description": "*Machine vision.\u00a0Data\u00a0wrangling.\u00a0Reinforcement learning.* What do these terms even mean? In\u00a0AI\u00a0101, MIT researcher Brandon Leshchinskiy offers an introduction to artificial intelligence that's designed specifically for those with little to no background in the subject. The workshop starts with a summary of key concepts in\u00a0AI, followed by an interactive exercise where participants train their own algorithm. Finally, it closes with a summary of key takeaways and Q/A. All are welcome!",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.6-013",
+  "course_image_thumbnail": {
+    "content": "11b4de4b-bae3-4cd3-a56c-a064393fb619",
+    "website": "res-6-013-ai-101-fall-2021"
+  },
+  "learning_resource_types": [
+    "Video Materials"
+  ],
+  "site_uid": "6c7bcd6a-1293-4483-be2b-a12fa9b9ef96",
+  "site_short_id": "res-6-013-fall-2021"
+}
